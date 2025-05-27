@@ -3,7 +3,7 @@
 ## Using the fruit fly to understand sleep physiology
 ---
 ##
-Sleep is required for all animal life. Complete loss of sleep is not only deadly, but disrupted sleep is associated with significant effects on health. We know from human and animal studies that sleep deprivation is directly related to a decline in cognitive function as well as reduced immune system function. In addition, insufficient sleep in people is associated with increased risk of diabetes, cardiovascular disease, cancer, as well as many other diseases. Despite this, we still know little about the direct regulators of sleep. The goal of the Deal laboratory is to identify the genetic and molecular players that lead to sleep disruption, with core questsion like:  
+Sleep is required for all animal life. Complete loss of sleep is not only deadly, but disrupted sleep is associated with significant effects on health. Despite this, we still know little about the direct regulators of sleep. The goal of the Deal laboratory is to identify the genetic and molecular players that lead to sleep disruption, with core questsion like:  
 - What leads to disrupted sleep, and how does this affect health?
 - How can we correct sleep disturbance, and can this improve health outcomes? 
 ##
