@@ -1,5 +1,5 @@
 ---
-# title: The Deal Lab @ Mercer University
+# The Deal Lab @ Mercer University
 ## Using the fruit fly to understand sleep physiology
 ---
 ##
